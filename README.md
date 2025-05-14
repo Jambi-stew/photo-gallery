@@ -14,7 +14,7 @@ This is a photo gallery that showcases my use of CSS flexbox and alt text. The p
 - Implement background 
 - Centre page
 
-### Code Review (14 MAY)
+## Code Review (14 MAY)
 **bold text**
 <br>
 *italic text* 
